@@ -1,4 +1,4 @@
-# Prompts for generating [admissions.mitwpu.edu](https://admissions.mitwpu.edu) page
+# Prompts for generating [MITWPU](https://admissions.mitwpu.edu.in) page
 
 ## Creating the header
 
@@ -54,4 +54,28 @@ Before
 
 After
 ![Banner after](./Screenshots/banner-after.png)
+
+## Adding Quote and Images
+
+Let's add another section. use the below prompt.
+
+```
+Create a new section, section 2. For this section, have 2 divisions left and right side with left side taking 30% of the screen. In the left side write the quote 
+'Empowering the youth
+of today to become the
+leaders of tomorrow' 
+in large size with quote styling. Use red and bold font for the word "Empowering", with the rest of text in black and regular font.
+In the right side of section 3, use the following 3 images that are evenly spaced horizontally .
+https://admissions.mitwpu.edu.in/wp-content/uploads/2022/12/Copy-of-DSC_6026-2-1.png.webp
+https://admissions.mitwpu.edu.in/wp-content/uploads/2022/12/DSC_2118-1-1-1.png.webp
+https://admissions.mitwpu.edu.in/wp-content/uploads/2023/01/Copy-of-DSC_3114-1-min.webp
+```
+
+At this point, we saw ChatGPT reusing class names or id names. so we suggested it to redo the prompt by being more specific.
+
+![Results](./Screenshots/empowering.png)
+
+Wow! That worked for us first try! 
+
+> Note: In this section we used the images hosted on the [admissions.mitwpu.edu.in](https://admissions.mitwpu.edu.in)
 
