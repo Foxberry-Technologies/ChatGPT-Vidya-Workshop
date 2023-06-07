@@ -1,0 +1,30 @@
+.sticky-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.logo img {
+  height: 50px;
+  width: auto;
+}
+
+.cta-links a {
+  margin-left: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+#section1 > #left_section {
+  /* CSS for the left section */
+}
+
+#section1 > #right_section {
+  /* CSS for the right section */
+}
