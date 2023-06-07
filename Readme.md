@@ -1,13 +1,5 @@
 # Prompts for generating [admissions.mitwpu.edu](https://admissions.mitwpu.edu) page
 
-## Preparations
-
-
-```
-
-```
-
-
 ## Creating the header
 
 We will start by asking `ChatGPT` to do some preparations for the next prompts, for e.g. adding bootstrap - a popular CSS Library used by website developers - or changing the default font of the page. Then, we can ask it to create the header. Here we have carefully worded the requirements, and have provided enough description and details so that `ChatGPT` can generate the same header, every time, no matter who uses this prompt.
