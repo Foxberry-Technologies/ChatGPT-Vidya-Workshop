@@ -91,7 +91,7 @@ For the data under each tab use name of some computer science courses. Each cour
 https://cdn.pixabay.com/photo/2015/07/28/22/05/child-865116_1280.jpg. Course boxes in each tab should be contained in a flex layout row.  Use javascript to navigate sections using the navigation tabs. 
 ```
 
->Pro tip: We saw a 'Continue Generation' as the code being generated was going to be long. We pressed it to get the fully generated code.
+> 💡 Pro Tip: We saw a 'Continue Generation' as the code being generated was going to be long. We pressed it to get the fully generated code.
 
 Also we have create a new file called `main.js` and included it in our `index.html` with the below line
 
@@ -161,3 +161,36 @@ We generate the footer with a few lines of code.
 
 Results:
 ![Footer](./Screenshots/footer.png)
+
+## Adding the chatbot window
+
+We were feeling very confident today, so we also added the chatbot 😄
+
+```
+Create a floating chat icon within a circle. It should float on the bottom right side of the web page. Clicking it should reveal a small chat window. The window should be a chatbot that can give you answers based on finite set of questions with the UI resembling whatsapp UI. can you create code for chatbot that can give you answers based on finite set of questions with the UI resembling whatsapp ui. Questions can be regarding admissions and fees, etc.
+```
+
+Wow, we had to click 'Continue Generating' again with this prompt!
+Let's see what we got.
+
+> Note: Do not forget to also copy the javascript. Since the project was small, we copied the javascript in the same `main.js` file as before. As mentioned before the whole code repository is available on [GitHub here](https://github.com/Foxberry-Technologies/ChatGPT-Vidya-Workshop)
+
+![Results chat](./Screenshots/chat-1.png)
+
+This looked great, however, we wanted to add chips for quick selection of available questions.
+
+So we asked: 
+
+```
+Can you add chips below the chat input box. Chips can contain the questions that are in the javascript
+
+```
+
+and ChatGPT updated the code for us. After some quick additions and css updating, we get!
+
+![Chatbot](./Screenshots/chatbot-2.png)
+
+Yes a very simple but functional bot!
+We can add ore remove questions by editing the code.
+
+At this point, the coding part of this session comes to an end.
