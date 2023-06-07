@@ -107,3 +107,16 @@ And here's the result:
 
 Yes, even the navigation works! Since this section was somewhat complicated as it involved javascript, we had to do a few retakes, means, pressing 'Regenerate' a few times. After we were happy with the results, we moved onto the next section.
 
+## Adding mission statement
+
+We use the below prompt to generate the mission statement section.
+
+```
+Create a new section section 4.
+Create two divisions in the section 4. In the left side start by adding "We Believe that" in red font and font size 24px. Just below that add “Union of Science and Spirituality alone will bring peace to mankind” with quotes in black and font size 48px. Below that add a red call to action button with text "ENROLL NOW".
+In the right side add the below url as background image https://staging-web.srv.media/mitwpu/wp-content/uploads/2022/12/Copy_of_DSC_1139-removebg-preview-1-1-1.png
+```
+
+This worked first try as well! However we had to ask ChatGPT to re-add "`>`" css selector as we found duplicate class names
+
+![Mission](./Screenshots/mission-statement.png)
