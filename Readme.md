@@ -71,11 +71,15 @@ https://admissions.mitwpu.edu.in/wp-content/uploads/2022/12/DSC_2118-1-1-1.png.w
 https://admissions.mitwpu.edu.in/wp-content/uploads/2023/01/Copy-of-DSC_3114-1-min.webp
 ```
 
-At this point, we saw ChatGPT reusing class names or id names. so we suggested it to redo the prompt by being more specific.
+
 
 ![Results](./Screenshots/empowering.png)
 
 Wow! That worked for us first try! 
 
-> Note: In this section we used the images hosted on the [admissions.mitwpu.edu.in](https://admissions.mitwpu.edu.in)
+> Note: In this section we used the images hosted on the [admissions.mitwpu.edu.in](https://admissions.mitwpu.edu.in). 
+> Also, by this point, we saw ChatGPT reusing class names or id names. so we suggested it to redo the prompt by being more specific using the "`>`" css selector
+
+
+
 
