@@ -80,6 +80,30 @@ Wow! That worked for us first try!
 > Note: In this section we used the images hosted on the [admissions.mitwpu.edu.in](https://admissions.mitwpu.edu.in). 
 > Also, by this point, we saw ChatGPT reusing class names or id names. so we suggested it to redo the prompt by being more specific using the "`>`" css selector
 
+## Adding the courses section
 
+We used the below prompt to generate a tab-based navigation system for the page, to display offered courses.
 
+```
+Create a new section - section 3. In here give 5 navigation tabs with sections that when clicked, their data is visible below them. For the navigation tabs use 5 courses as below and give a graduation cap icon from fontawesome to each, where the icon is visible above the course name. When clicked the background of active tab stays light gray
+Course names: Undergraduate Programmes, Postgraduate Programmes, Diploma and Certificate Programmes, International Admissions, PhD
+For the data under each tab use name of some computer science courses. Each course should look like a 250 width by 180 height rounded rectangle  with a  background image from the below link with a blue filter. 
+https://cdn.pixabay.com/photo/2015/07/28/22/05/child-865116_1280.jpg. Course boxes in each tab should be contained in a flex layout row.  Use javascript to navigate sections using the navigation tabs. 
+```
+
+>Pro tip: We saw a 'Continue Generation' as the code being generated was going to be long. We pressed it to get the fully generated code.
+
+Also we have create a new file called `main.js` and included it in our `index.html` with the below line
+
+```
+  <script src="main.js"></script>
+```
+
+We included it just before the `</body>` tag ends.
+And here's the result:
+
+![Result 2](./Screenshots/courses.png)
+![Result 2](./Screenshots/courses2.png)
+
+Yes, even the navigation works! Since this section was somewhat complicated as it involved javascript, we had to do a few retakes, means, pressing 'Regenerate' a few times. After we were happy with the results, we moved onto the next section.
 
