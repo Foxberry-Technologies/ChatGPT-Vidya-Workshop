@@ -31,3 +31,14 @@ For you to follow along later, we have create a public [GitHub Repository](https
 And, voila! You already have the beginnings of a new web developer!
 
 ![Just the header](./Screenshots/just-the-header.png)
+
+If you don't see the above result, you can also press Regenerate and ChatGPT will rewrite the response! [See Learnings](./Learnings.md)
+
+## Adding Hero Section
+
+Next we create the hero 'banner' section.
+Use the below prompt to do that.
+
+```
+Add a new section, section 1, write in HTML and CSS a banner section. For the background of this section use this image: https://admissions.mitwpu.edu.in/wp-content/uploads/2022/12/Home-banner.webp. Keep the background brightness to 80%. For the forefront of this section, have 2 divisions left and right side. The left side takes 60% of the screen and contains white text in two lines. First line contains 'Admissions Open For' and second line contains bold white text 'YEAR 2023'.
+Keep the text in the left section vertically aligned. For the right section give a basic yet properly designed and formatted contact form. Use any modern design as reference.```
