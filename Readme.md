@@ -120,3 +120,44 @@ In the right side add the below url as background image https://staging-web.srv.
 This worked first try as well! However we had to ask ChatGPT to re-add "`>`" css selector as we found duplicate class names
 
 ![Mission](./Screenshots/mission-statement.png)
+
+## Footer
+
+We generate the footer with a few lines of code.
+
+```diff
+
+# index.html
+ 
++  <footer>
++    MIT-WPU 2023
++  </footer>
+  
+  
+  <script src="main.js"></script>
+
+</body>
+</html>
+
+```
+
+```diff
+# styles.css
+
++
++/* Footer */
++footer {
++  display: flex;
++  justify-content: center;
++  align-items: center;
++  padding: 15px;
++  color: white;
++  background-color: #122952;
++  font-size: 20px;
++  margin-top: 10px;
++}
+
+```
+
+Results:
+![Footer](./Screenshots/footer.png)
