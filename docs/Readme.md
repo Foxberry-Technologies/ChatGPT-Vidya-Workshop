@@ -1,7 +1,5 @@
 # HTML Code Documentation
 
-This is a documentation for the provided HTML code.
-
 > You can checkout [styles.css](./styles.css.md) or [main.js](./main.js.md) here!
 
 ## Index

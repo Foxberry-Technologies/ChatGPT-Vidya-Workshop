@@ -2,6 +2,111 @@
 
 > You can checkout [index.html](./Readme.md) or [main.js](./main.js.md) here!
 
+## Table of Contents
+
+- [Body](#body)
+- [Sticky Header](#sticky-header)
+- [Banner Section](#banner-section)
+- [Section 2 - Quote and Images](#section-2---quote-and-images)
+- [Section 3](#section-3)
+- [Mission Statement](#mission-statement)
+- [Footer](#footer)
+- [Chat](#chat)
+- [Chips](#chips)
+
+---
+
+## Body
+
+- [CSS Documentation](#css-documentation)
+
+## Sticky Header
+
+- [`.sticky-header`](#sticky-header)
+- [`.sticky-header .logo`](#sticky-header-logo)
+- [`.sticky-header .logo img`](#sticky-header-logo-img)
+- [`.sticky-header .action-links`](#sticky-header-action-links)
+- [`.sticky-header .action-links a`](#sticky-header-action-links-a)
+- [`.sticky-header .action-links a:last-child`](#sticky-header-action-links-alast-child)
+- [`.sticky-header .action-links .phone-icon`](#sticky-header-action-links-phone-icon)
+- [`.sticky-header .action-links .email-icon`](#sticky-header-action-links-email-icon)
+- [`.sticky-header .action-links .whatsapp-icon`](#sticky-header-action-links-whatsapp-icon)
+
+## Banner Section
+
+- [`.banner-section`](#banner-section)
+- [`.banner-background`](#banner-background)
+- [`.banner-content`](#banner-content)
+- [`.left-section`](#left-section)
+- [`.left-section h2`](#left-section-h2)
+- [`.left-section h1`](#left-section-h1)
+- [`.right-section`](#right-section)
+- [`.right-section h3`](#right-section-h3)
+- [`.form-group`](#form-group)
+- [`.input[type="text"], input[type="email"], textarea`](#input-types-text-email-textarea)
+- [`.button[type="submit"]`](#button-types-submit)
+
+## Section 2 - Quote and Images
+
+- [Section 2 - Quote and Images](#section-2---quote-and-images)
+- [`.section-2 > .left-section`](#section-2-left-section)
+- [`.section-2 > .left-section blockquote`](#section-2-left-section-blockquote)
+- [`.section-2 > .left-section blockquote p`](#section-2-left-section-blockquote-p)
+- [`.section-2 > .left-section .empowering`](#section-2-left-section-empowering)
+- [`.section-2 > .right-section`](#section-2-right-section)
+- [`.section-2 > .right-section img`](#section-2-right-section-img)
+
+## Section 3
+
+- [Section 3](#section-3)
+- [`.section-3`](#section-3)
+- [`.navigation-tabs`](#navigation-tabs)
+- [`.navigation-tabs .tab`](#navigation-tabs-tab)
+- [`.tab-content`](#tab-content)
+- [`.course-container`](#course-container)
+- [`.course-container.active`](#course-containeractive)
+- [`.course-box`](#course-box)
+
+## Mission Statement
+
+- [Mission Statement](#mission-statement)
+- [`.section-4`](#section-4)
+- [`.section-4 > .left-section`](#section-4-left-section)
+- [`.section-4 > .left-section h2`](#section-4-left-section-h2)
+- [`.section-4 > .left-section h1`](#section-4-left-section-h1)
+- [`.section-4 > .left-section .enroll-btn`](#section-4-left-section-enroll-btn
+
+)
+- [`.section-4 > .right-section`](#section-4-right-section)
+
+## Footer
+
+- [Footer](#footer)
+- [`footer`](#footer)
+
+## Chat
+
+- [Chat](#chat)
+- [`.chat-icon`](#chat-icon)
+- [`.chat-window`](#chat-window)
+- [`.chat-window .header`](#chat-window-header)
+- [`.chat-window .header h3`](#chat-window-header-h3)
+- [`.chat-window .header .close-btn`](#chat-window-header-close-btn)
+- [`.chat-window .messages`](#chat-window-messages)
+- [`.chat-window .message`](#chat-window-message)
+- [`.chat-window .message p`](#chat-window-message-p)
+- [`.chat-window .incoming`](#chat-window-incoming)
+- [`.chat-window .input-area`](#chat-window-input-area)
+- [`.chat-window .input-area input[type="text"]`](#chat-window-input-area-input-types-text)
+- [`.chat-window .input-area .send-btn`](#chat-window-input-area-send-btn)
+
+## Chips
+
+- [Chips](#chips)
+- [`.chips`](#chips)
+- [`.chip`](#chip)
+- [`.chip:hover`](#chiphover)
+
 
 ```markdown
 
