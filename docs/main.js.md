@@ -1,6 +1,9 @@
 ## JavaScript Documentation
 
 
+> You can checkout [index.html](./Readme.md) or [styles.css](./styles.css.md) here!
+
+
 ## Table of Contents
 
 - [showTab(tabIndex)](#showtabtabindex)
