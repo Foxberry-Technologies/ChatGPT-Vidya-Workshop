@@ -1,4 +1,4 @@
-# Prompts for generating [MITWPU](https://admissions.mitwpu.edu.in) page
+# Prompts for generating homepage
 
 ## Creating the header
 
